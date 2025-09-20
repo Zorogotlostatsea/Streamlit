@@ -18,4 +18,5 @@ with st.sidebar:
     st.subheader('Contact us now')
     st.write('- Mobile: +92 3242700848')
     st.write('- Email: click2ahmedsalman@gmail.com')
+    st.write('- Feel free to contact')
     st.write('---')
